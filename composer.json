@@ -1,0 +1,17 @@
+{
+    "name": "0/desc-lib",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Zero\\DescLib\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Szymon Sadło",
+            "email": "szymon.sadlo@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
